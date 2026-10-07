@@ -13,7 +13,7 @@
 
 | # | Problem | Difficulty | Latest Solution | Time Complexity | Space Complexity | Language |
 | :---: | :--- | :---: | :--- | :---: | :---: | :--- |
-| 0020 | [Valid Parentheses](./problems/0020-valid-parentheses) | Easy | [Solution 1](./problems/0020-valid-parentheses/Solution_1.cpp) | `O(N)` | `O(1)` | cpp |
+| 0020 | [Valid Parentheses](./problems/0020-valid-parentheses) | Easy | [Solution 2](./problems/0020-valid-parentheses/Solution_2.cpp) | `O(N)` | `O(1)` | cpp |
 
 ---
 *Created automatically by [LeetCode Sync](https://github.com).*
